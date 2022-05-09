@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1652087736679.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "440100041",
+    "id" : "31FB083E",
+    "lastKnownWriteTime" : 1652087831,
+    "last_content_update" : 1652087831018,
+    "path" : "C:/Users/Dell/Downloads/ishika/Loan Predictor App/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "74,46",
+        "scrollLine" : "64"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

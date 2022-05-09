@@ -1,0 +1,24 @@
+.container-fluid {
+    padding: 0;
+}
+
+h1 {
+background-color: #15133C;
+margin: 0px;
+margin-bottom: 5px;
+padding:  2%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.btn {
+  margin-left: 45%;
+}
+
+#value {
+   text-align: center;
+}
