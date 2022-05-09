@@ -98,7 +98,7 @@ server <- function(input, output, session) {
       names(predict_df) <- names(train_data)[c(-1, -13)]
       x = predict(classifier_RF, predict_df)
       if(x == "N"){
-        h3(" Your Apllication has dissproved", class="output text-danger")
+        h3("OOPs, Your Apllication has dissproved", class="output text-danger")
       } else{
         h3("Congrats! Your Apllication has approved", class = "output text-success")  
       }
